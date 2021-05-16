@@ -6,6 +6,8 @@ A proxy made in C, Ruby, Node.js, and GO
 <a href="https://repl.it/github/Monstars-dev/Snow-Leopard" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/replit.svg" width="140" height="30"><img></a>
 &nbsp;
 <a href="https://glitch.com/edit/#!/import/github/Monstars-dev/Snow-Leopard" title="Remix on Glitch"><img alt="Remix on glitch" src="https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/glitch.svg" width="140" height="30"><img></a>
+&nbsp;
+[![Deploy to Azure](https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/azure.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Forgname%2Fprojectname%2F_apis%2Fgit%2Frepositories%2Freponame%2Fitems%3FscopePath%3D%2freponame%2fazuredeploy.json%26api-version%3D6.0)
 
 ### What's This?
 
