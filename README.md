@@ -1,4 +1,4 @@
-# Snow-Leopard
+# Snow Leopard
 A proxy made in C, Ruby, Node.js, and GO
 
 [![Deploy](https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/heroku.svg)](https://heroku.com/deploy?template=https://github.com/Monstars-dev/Snow-Leopard/tree/main)
