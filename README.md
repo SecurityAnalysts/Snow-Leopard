@@ -17,6 +17,10 @@ A proxy made in C, Ruby, Node.js, and GO
 
 Snow Leopard is a proxy made to bypass the internet filtering extensions like GoGuardian, Cisco Umbrella(OpenDNS), securly and iboss. For now remember to include the "https"
 
+### Setup:
+
+Click one of the deploy buttons above!
+
 ### Repl.it:
 
 https://replit.com/@stewpidtnlvr/Snow-Leopard
