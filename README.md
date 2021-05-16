@@ -10,6 +10,8 @@ A proxy made in C, Ruby, Node.js, and GO
 [![Deploy to Azure](https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/azure.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Forgname%2Fprojectname%2F_apis%2Fgit%2Frepositories%2Freponame%2Fitems%3FscopePath%3D%2freponame%2fazuredeploy.json%26api-version%3D6.0)
 &nbsp;
 [![Deploy with Vercel](https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/vercel.svg)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FMonstars-dev%2FSnow-Leopard)
+&nbsp;
+[![Deploy with Metlify](https://github.com/Monstars-dev/Snow-Leopard/raw/main/static/images/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Monstars-dev/Snow-Leopard)
 
 ### What's This?
 
