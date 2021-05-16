@@ -27,6 +27,6 @@ https://replit.com/@stewpidtnlvr/Snow-Leopard
 
 ### Credits:
 
-stewpidtnlvr (sk8ordiechicago)
+sk8ordiechicago #4958
 
-Pers0n-dev
+Pers0n-dev #2695
