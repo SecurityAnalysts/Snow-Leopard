@@ -1,5 +1,5 @@
 # Snow Leopard
-A proxy made in C, Ruby, Node.js, and GO
+The ultimate proxy site for bypassing modern web filters
 
 **Working:**
 
@@ -25,7 +25,7 @@ Snow Leopard is a proxy made to bypass the internet filtering extensions like Go
 
 Click one of the deploy buttons above!
 
-### Repl.it:
+### Replit:
 
 https://replit.com/@stewpidtnlvr/Snow-Leopard
 
