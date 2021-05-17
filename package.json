@@ -13,7 +13,7 @@
     "proxy-site",
     "unblocker",
     "replit"
-],
+  ],
   "authors": [
     {
       "name": "sk8ordiechicago"
@@ -23,6 +23,8 @@
     }
   ],
   "license": "(CC BY-NC-ND 4.0)",
+  "homepage": "https://github.com/Monstars-dev/Snow-Leopard#readme",
+  "bugs": "https://github.com/Monstars-dev/Snow-Leopard/issues",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
