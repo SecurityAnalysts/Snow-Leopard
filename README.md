@@ -1,4 +1,6 @@
 # Snow Leopard
+## Not ready for use, the code will be added once finished!
+
 The ultimate proxy site for bypassing modern web filters
 
 **Working:**
