@@ -29,6 +29,14 @@ https://replit.com/@stewpidtnlvr/Snow-Leopard
 
 ### Credits:
 
+**Owners**
+
 sk8ordiechicago #4958
 
 Pers0n-dev #2695
+
+**Helpers**
+
+EnderKingJ #0001
+
+Karlee Rae #7317
