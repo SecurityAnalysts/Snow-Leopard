@@ -33,13 +33,13 @@
     "http-proxy-middleware": "^2.0.0",
     "jade": "^1.11.0",
     "jsdom": "^16.6.0",
-    "node-sass-middleware": "^0.11.0",
+    "node-sass-middleware": "^1.1.0",
     "pug": "^3.0.2",
     "python": "0.0.4",
     "python-shell": "^3.0.0",
     "python3": "0.0.1",
     "ruby": "^0.6.1",
     "test.js": "^1.0.0",
-    "ws": "^7.4.5"
+    "ws": "^7.4.6"
   }
 }
